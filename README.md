@@ -1,6 +1,6 @@
 # PTFO
 
-Mac App Build Using Electron
+Mac App Built Using Electron
 
 ## Build
 Run
