@@ -1,0 +1,23 @@
+{
+  "name": "ptfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JangkarBumi/PTFO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JangkarBumi/PTFO/issues"
+  },
+  "homepage": "https://github.com/JangkarBumi/PTFO#readme",
+  "devDependencies": {
+    "electron": "^5.0.8"
+  }
+}
